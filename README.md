@@ -1,5 +1,5 @@
 # LEA-FRONT
-
+This project was developed by [Karol](https://github.com/krl42c) and me.
 This repository contains the front-end system made for [LinuxEasyAdmin](https://github.com/krl42c/linuxeasyadmin) API.
 
 ## Run
